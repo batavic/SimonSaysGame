@@ -1,2 +1,2 @@
 # SimonSaysGame
-The Simon Say Game with JS.
+The Simon Says Game with JS.
